@@ -1,3 +1,3 @@
-A simple ping module
-ReplicatedStorage > PingClient (Remote Event)
+A simple ping module\n
+ReplicatedStorage > PingClient (Remote Event)\n
 ReplicatedStorage > PingServer (Remote Event)
